@@ -1,0 +1,4 @@
+swim
+buy
+trash
+work-out
